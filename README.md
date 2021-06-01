@@ -1,2 +1,2 @@
 # Mini-Projects-
-A collection of repos of all the mini projects that I developed during my initial learning phase of web development.
+A collection of repos of all the Major/ Mini projects that I developed during my journey of Web development.
