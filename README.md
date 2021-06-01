@@ -4,6 +4,6 @@ A collection of repos of all the Major/ Mini projects that I developed during my
 | Covid ERP Portal     | [Link]( https://covid-erp.netlify.app/login) | -->
 | Project        | Link          | Repository  |
 | ------------- |:-------------:| -----:|
-|  Covid ERP Portal     | [Link]( https://covid-erp.netlify.app/login) | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|  Covid ERP Portal     | [Here]( https://covid-erp.netlify.app/login) | $1600 |
+|  Covid ERP Portal     | [Here]( https://covid-erp.netlify.app/login) | $1600 |
+
